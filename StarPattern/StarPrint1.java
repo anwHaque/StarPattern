@@ -24,3 +24,12 @@ public class StarPrint1 {
     }
     
 }
+/*
+OUTUT:
+*****
+****
+***
+**
+*
+
+*/

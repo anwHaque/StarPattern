@@ -19,3 +19,13 @@ public class StarPrint2 {
         }
     }
 }
+
+/*
+OUTPUT:
+*
+**
+***
+****
+*****
+
+*/

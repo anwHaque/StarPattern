@@ -16,7 +16,16 @@ public class NumPrint1 {
                 System.out.print(i);
             }
             System.out.println();
-        }
-        
+        }  
     }
 }
+
+/*
+OUTPUT:
+1
+22
+333
+4444
+55555
+
+*/

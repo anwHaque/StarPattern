@@ -10,5 +10,11 @@ package starprint1;
  * @author Anwar
  */
 public class NumPrint {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
+/*
+OUTPUT:
+Hello World
+*/
